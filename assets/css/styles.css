@@ -240,4 +240,12 @@
     .menu-spacing {
         display: none;
     }
+
+    h2 {
+        font-size: 5rem;
+    }
+
+    h3 {
+        font-size: 4.5rem;
+    }
 }
